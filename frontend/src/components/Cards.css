@@ -1,0 +1,65 @@
+.naslov{
+  padding: 4rem;
+  background: #fff;
+}
+.cards-1 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 4rem;
+  background: #5F9EA0;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.first-column {
+  text-align: center;
+  width: 45%;
+  float: left;
+  padding: 20px;
+}
+
+.second-column {
+  padding: 20px;
+  width: 45%;
+  float: right;
+}
+
+.title{
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size: xx-large;
+  padding-bottom: 30px;
+  
+}
+
+.paragraf{
+  
+  font-family: 'Nunito', sans-serif;
+  font-size: large;
+  
+  text-align: center;
+  padding: 60px;
+}
+
+.cards-2 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 4rem;
+  background: #fff;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
